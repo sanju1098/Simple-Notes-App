@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sanju1098/Simple-Notes-App.git/static/css/main.bab0b925.chunk.css",
+    "main.js": "/sanju1098/Simple-Notes-App.git/static/js/main.5c7c2686.chunk.js",
+    "main.js.map": "/sanju1098/Simple-Notes-App.git/static/js/main.5c7c2686.chunk.js.map",
+    "runtime-main.js": "/sanju1098/Simple-Notes-App.git/static/js/runtime-main.807a072b.js",
+    "runtime-main.js.map": "/sanju1098/Simple-Notes-App.git/static/js/runtime-main.807a072b.js.map",
+    "static/css/2.3038005c.chunk.css": "/sanju1098/Simple-Notes-App.git/static/css/2.3038005c.chunk.css",
+    "static/js/2.2bb84be5.chunk.js": "/sanju1098/Simple-Notes-App.git/static/js/2.2bb84be5.chunk.js",
+    "static/js/2.2bb84be5.chunk.js.map": "/sanju1098/Simple-Notes-App.git/static/js/2.2bb84be5.chunk.js.map",
+    "index.html": "/sanju1098/Simple-Notes-App.git/index.html",
+    "static/css/2.3038005c.chunk.css.map": "/sanju1098/Simple-Notes-App.git/static/css/2.3038005c.chunk.css.map",
+    "static/css/main.bab0b925.chunk.css.map": "/sanju1098/Simple-Notes-App.git/static/css/main.bab0b925.chunk.css.map",
+    "static/js/2.2bb84be5.chunk.js.LICENSE.txt": "/sanju1098/Simple-Notes-App.git/static/js/2.2bb84be5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.807a072b.js",
+    "static/css/2.3038005c.chunk.css",
+    "static/js/2.2bb84be5.chunk.js",
+    "static/css/main.bab0b925.chunk.css",
+    "static/js/main.5c7c2686.chunk.js"
+  ]
+}
